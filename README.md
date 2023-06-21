@@ -1,1 +1,1 @@
-# odin-recipts
+# odin-recies
